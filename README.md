@@ -7,7 +7,7 @@
    
 
    
-[![My Skills](https://skillicons.dev/icons?i=java,Mysql)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev) 
 
 </div>
 
